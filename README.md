@@ -1,4 +1,6 @@
-# CrudApp
+# My Insurance App
+
+This project lets administrators update the details of their customers and makes it easy for them to filter or brpwse through their list of clients.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
